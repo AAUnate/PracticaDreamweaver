@@ -48,3 +48,6 @@ p {
     text-align: center;
     border-collapse: separate;
 }
+
+@media (max-width: 1004px){
+}
