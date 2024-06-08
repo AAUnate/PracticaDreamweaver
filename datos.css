@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+@media screen and (orientation:landscape){
+
+
+.nuevo em strong21 {
+}
+.nuevo em strong2 {
+
+}
+.clase2 {
+    text-align: center;
+    color: yellow;
+    border: solid 10px red;
+}
+
+
+}
+
+
+.clase2{
+    text-align: center;
+    color: yellow;
+	border: solid 10px red;
+}
