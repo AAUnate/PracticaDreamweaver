@@ -1,5 +1,5 @@
 @charset "utf-8";
-@import url("segundo.css") screen;
+/*/@import url("segundo.css") screen;*
 
 
 /* CSS Document */
@@ -52,7 +52,28 @@ p {
     text-align: center;
     border-collapse: separate;
 }
+.nuevo em strong {
+}
+.clase1 {
+}
+
+
+
+
+
+@media screen and (orientation:landscape) and (min-width:100px){
+	p{color: red;
+    text-align: left; }
+.nuevo em strong {
+}
+
+h1 {
+}
+.nuevo em strong21 {
+}
+}
 
 @media screen{
-	p{color: red;}
+.nuevo em strong {
+}
 }
